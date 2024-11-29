@@ -1,0 +1,4 @@
+[console_scripts]
+astroclip_trainer = astroclip.trainer:main_cli
+image_trainer = astroclip.astrodino.trainer:main_cli
+spectrum_trainer = astroclip.trainer:main_cli
